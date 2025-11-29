@@ -1,10 +1,10 @@
 ## YapNads : Privacy preserving fully onchain Chat Protocol
 
-Local User logic execution
-Point your custom RPC Nodes
-Account Abstraction and Wallet Rotation
+->Local User logic execution    
+->Point your custom RPC Nodes   
+->Account Abstraction and Wallet Rotation   
 
-V2 Roadmap : ERC 5564 Stealth Addresses
+V2 Roadmap : ERC 5564 Stealth Addresses   
              Retrieval of Messages older than ~2000 Blocks
 
 Uses Custom RPC provided by Fastlane
